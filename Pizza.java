@@ -18,7 +18,7 @@ public abstract class Pizza {
     }
 
     void box() {
-        System.out.println("Empacotar nas caixas da pizzaria");
+        System.out.println("Colocar a pizza na caixa oficial da pizzaria");
     }
 
     void setName(String name) {
