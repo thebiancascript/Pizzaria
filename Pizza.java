@@ -18,7 +18,7 @@ public abstract class Pizza {
     }
 
     void box() {
-        System.out.println("empacotar nas caixas da pizzaria");
+        System.out.println("Empacotar nas caixas da pizzaria");
     }
 
     void setName(String name) {
@@ -30,6 +30,6 @@ public abstract class Pizza {
     }
 
     public String ToString() {
-        // ....
+        // COD PRA IMPRIMIR A PIZZA 
     }
 }
